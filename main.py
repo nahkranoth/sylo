@@ -3,8 +3,8 @@
 print("Content-Type: text/html")
 print()
 print ("""
-    <TITLE>CGI script ! Python</TITLE>
-    <H1>This is my first CGI script</H1>
+    <TITLE>Python script ! Python</TITLE>
+    <H1>My Python is Script</H1>
     Hello, world!
 """
 )
