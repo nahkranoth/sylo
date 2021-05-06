@@ -1,7 +1,10 @@
-def print_hi(name):
-    print("Content-Type: text/html\n\r\n")
-    print("Hi, {0}".format(name))
+#!/usr/bin/env python3
 
-
-if __name__ == '__main__':
-    print_hi('PyCharm')
+print("Content-Type: text/html")
+print()
+print ("""
+    <TITLE>CGI script ! Python</TITLE>
+    <H1>This is my first CGI script</H1>
+    Hello, world!
+"""
+)
