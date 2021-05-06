@@ -5,6 +5,6 @@ print()
 print ("""
     <TITLE>Python script ! Python</TITLE>
     <H1>Donkey man</H1>
-    Hello, world!
+    I am happy
 """
 )
