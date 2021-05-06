@@ -4,7 +4,7 @@ print("Content-Type: text/html")
 print()
 print ("""
     <TITLE>Python script ! Python</TITLE>
-    <H1>My Python is Script123</H1>
+    <H1>Donkey man</H1>
     Hello, world!
 """
 )
